@@ -1,7 +1,15 @@
 # Outreach Style Rules
 
-- Use one recent, verifiable signal per business
-- No template fluff like "I build websites"
-- Anchor the message to the specific observation
-- 3-5 short lines max
-- Always end with one low-friction next step
+## Table Format
+Use tables in daily lead notes. Example:
+
+| Business | Source | Signal | Why No Web App | Suggested Angle |
+|---|---|---|---|---|
+| Name | Platform/URL | One recent verifiable observation | Why they look weak online | One-sentence personalized opener |
+| Name | Platform/URL | One recent verifiable observation | Why they look weak online | One-sentence personalized opener |
+
+## Outreach Rules
+- Only one lead row per business
+- Never invent facts
+- Minimum recent signal per lead
+- No template fluff
