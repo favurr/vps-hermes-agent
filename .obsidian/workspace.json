@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Niches.md",
+                "file": "Leads/Daily/2026-08-01 - Cairo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Niches"
+              "title": "2026-08-01 - Cairo"
             }
           }
         ],
@@ -225,19 +225,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "526238b695273e43",
+  "active": "5e0392ed8fc53392",
   "lastOpenFiles": [
-    "Suggestions/2026-08-01.md",
-    "Suggestions",
-    "Routine/2026-08-01.md",
-    "Routine",
+    "Achievements/2026-08-01.md",
+    "Achievements",
     "Leads/Daily/2026-08-01 - Cairo.md",
     "Leads/Daily/2026-07-31 - Accra.md",
     "Leads/Daily/2026-07-30 - Lagos.md",
+    "Suggestions/2026-08-01.md",
+    "Routine/2026-08-01.md",
+    "Sources/Niches.md",
+    "Suggestions",
+    "Routine",
     "Leads/Daily/Example-Table.md",
     "Leads/Daily",
     "Leads/Templates/Outreach-Style.md",
-    "Sources/Niches.md",
     "README.md",
     "Welcome.md",
     "Sources",
