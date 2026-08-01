@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leads/Daily/Example-Table.md",
+                "file": "Sources/Niches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example-Table"
+              "title": "Niches"
             }
           }
         ],
@@ -225,8 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71043e5f51965ebc",
+  "active": "526238b695273e43",
   "lastOpenFiles": [
+    "Suggestions/2026-08-01.md",
+    "Suggestions",
+    "Routine/2026-08-01.md",
+    "Routine",
+    "Leads/Daily/2026-08-01 - Cairo.md",
+    "Leads/Daily/2026-07-31 - Accra.md",
     "Leads/Daily/2026-07-30 - Lagos.md",
     "Leads/Daily/Example-Table.md",
     "Leads/Daily",
