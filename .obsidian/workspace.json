@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -227,6 +229,18 @@
   },
   "active": "71043e5f51965ebc",
   "lastOpenFiles": [
+    "Suggestions/2026-08-05.md",
+    "Suggestions/2026-08-04.md",
+    "Suggestions/2026-08-03.md",
+    "Suggestions/2026-08-02.md",
+    "Routine/2026-08-05.md",
+    "Routine/2026-08-04.md",
+    "Routine/2026-08-03.md",
+    "Routine/2026-08-02.md",
+    "Leads/Daily/2026-08-05 - Dar es Salaam.md",
+    "Leads/Daily/2026-08-04 - Tunis.md",
+    "Leads/Daily/2026-08-03 - Dakar.md",
+    "Leads/Daily/2026-08-02 - Dakar.md",
     "Leads/Daily/2026-08-01 - Cairo.md",
     "Achievements/2026-08-01.md",
     "Achievements",
