@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Achievements/2026-08-01.md",
+                "file": "Leads/Daily/2026-07-30 - Lagos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-01"
+              "title": "2026-07-30 - Lagos"
             }
           }
         ],
@@ -229,6 +229,8 @@
   },
   "active": "71043e5f51965ebc",
   "lastOpenFiles": [
+    "Leads/Templates/Outreach-Style.md",
+    "Achievements/2026-08-01.md",
     "Suggestions/2026-08-05.md",
     "Suggestions/2026-08-04.md",
     "Suggestions/2026-08-03.md",
@@ -242,7 +244,6 @@
     "Leads/Daily/2026-08-03 - Dakar.md",
     "Leads/Daily/2026-08-02 - Dakar.md",
     "Leads/Daily/2026-08-01 - Cairo.md",
-    "Achievements/2026-08-01.md",
     "Achievements",
     "Leads/Daily/2026-07-31 - Accra.md",
     "Leads/Daily/2026-07-30 - Lagos.md",
@@ -253,7 +254,6 @@
     "Routine",
     "Leads/Daily/Example-Table.md",
     "Leads/Daily",
-    "Leads/Templates/Outreach-Style.md",
     "README.md",
     "Welcome.md",
     "Sources",
