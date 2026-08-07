@@ -21,6 +21,7 @@ Last updated: 2026-08-07
       - `Detroit/`
       - `Pittsburgh/`
       - `Cleveland/`
+      - `Lagos/`
   - `Archive/` — older leads and materials kept for reference
     - `Leads/` — archived daily lead files from earlier cities
   - `Projects/` — project-specific notes and assets
