@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leads/Daily/Cheesy Dave's Outreach Kit.md",
+                "file": "Sources/Favurr Long-Term Memory.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheesy Dave's Outreach Kit"
+              "title": "Favurr Long-Term Memory"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leads/Daily/2026-08-07 - US Cities Day 1.md",
+                "file": "Leads/Daily/Good Stock PGH Outreach Kit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-07 - US Cities Day 1"
+              "title": "Good Stock PGH Outreach Kit"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,34 +256,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "376d97efd9e82d69",
+  "active": "71043e5f51965ebc",
   "lastOpenFiles": [
+    "MAP.md",
+    "README.md",
+    "Leads/Templates/Outreach-Style.md",
+    "Suggestions/2026-08-01.md",
+    "Suggestions/2026-08-04.md",
+    "Suggestions/2026-08-06.md",
+    "Suggestions/2026-08-07.md",
+    "Leads/Daily/Cheesy Dave's Outreach Kit.md",
+    "Sources/Favurr Long-Term Memory.md",
+    "Leads/Daily/Good Stock PGH Outreach Kit.md",
+    "Leads/Daily/2026-08-07 - US Cities Day 1.md",
     "Leads/Daily/The Fed Up Momma Farmstand Outreach Kit.md",
     "Leads/Daily/The Boonseek Outreach Kit.md",
     "Leads/Daily/The Better Bean Outreach Kit.md",
     "Leads/Daily/Sahar's Food Lab Outreach Kit.md",
     "Leads/Daily/Mr. Nick's Fried Chicken Sandwich Outreach Kit.md",
     "Leads/Daily/Hibachi Lou Outreach Kit.md",
-    "Leads/Daily/Good Stock PGH Outreach Kit.md",
-    "Leads/Daily/Cheesy Dave's Outreach Kit.md",
     "Leads/Daily/Example-Table.md",
     "Leads/Daily/Detroit Outreach Kit.md",
-    "Leads/Daily/2026-08-07 - US Cities Day 1.md",
-    "Leads/Templates/Outreach-Style.md",
-    "README.md",
     "Leads/Daily/2026-07-30 - Lagos.md",
-    "Suggestions/2026-08-07.md",
-    "Suggestions/2026-08-06.md",
     "Routine/2026-08-07.md",
     "Routine/2026-08-06.md",
     "Achievements/2026-08-01.md",
     "Suggestions/2026-08-05.md",
-    "Suggestions/2026-08-04.md",
     "Suggestions/2026-08-03.md",
     "Suggestions/2026-08-02.md",
-    "Routine/2026-08-05.md",
-    "Routine/2026-08-04.md",
-    "Routine/2026-08-03.md",
     "Achievements",
     "Suggestions",
     "Routine",
