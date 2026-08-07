@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Leads/Daily/Cheesy Dave's Outreach Kit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Cheesy Dave's Outreach Kit"
             }
           }
         ],
@@ -227,8 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "376d97efd9e82d69",
+  "active": "71043e5f51965ebc",
   "lastOpenFiles": [
+    "README.md",
+    "Leads/Daily/Cheesy Dave's Outreach Kit.md",
     "Leads/Daily/Detroit Outreach Kit.md",
     "Leads/Daily/2026-08-07 - US Cities Day 1.md",
     "Leads/Templates/Outreach-Style.md",
@@ -254,8 +256,6 @@
     "Achievements",
     "Leads/Daily/2026-07-31 - Accra.md",
     "Suggestions/2026-08-01.md",
-    "Routine/2026-08-01.md",
-    "Sources/Niches.md",
     "Suggestions",
     "Routine",
     "Leads/Daily",
