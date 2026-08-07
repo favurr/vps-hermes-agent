@@ -21,6 +21,12 @@ Last updated: 2026-08-07
       - `Detroit/`
       - `Pittsburgh/`
       - `Cleveland/`
+        - `Cheesy Dave's Outreach Kit.md`
+        - `Eggroll R Us Outreach Kit.md`
+        - `The Big Kitchen Cleveland Outreach Kit.md`
+        - `Wok N Roll FoodTruck Outreach Kit.md`
+        - `Roaming Meals Outreach Kit.md`
+        - `Fungry Outreach Kit.md`
       - `Lagos/`
   - `Archive/` — older leads and materials kept for reference
     - `Leads/` — archived daily lead files from earlier cities
