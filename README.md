@@ -28,6 +28,8 @@ Favurr handles outreach delivery manually.
 ```chart
 type: pie
 title: Outreach Kits by City
+width: 300
+height: 300
 labels: [Detroit, Pittsburgh, Cleveland, Lagos]
 series:
   - title: Kits
@@ -37,6 +39,8 @@ series:
 ```chart
 type: pie
 title: Outreach Progress
+width: 300
+height: 300
 labels: [Prepared, Pending]
 series:
   - title: Status
