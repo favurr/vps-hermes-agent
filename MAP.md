@@ -38,9 +38,20 @@ Last updated: 2026-08-07
 
 ## Key Files
 
-- [[README]] — vault index
+- [[README]] — vault index with wikilinks
 - [[Sources/Favurr Long-Term Memory]] — user facts, business, daily systems, vault rules
 - [[Leads/Daily/2026-08-07 - US Cities Day 1]] — master lead table for Detroit, Pittsburgh, Cleveland
+
+## Dashboard
+
+```chart
+type: bar
+title: Cardio Distribution (Aug 1-7)
+labels: [Walk, Run]
+series:
+  - title: Days
+    data: [5, 2]
+```
 
 ## GitHub Sync
 

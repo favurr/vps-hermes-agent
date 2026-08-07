@@ -22,3 +22,23 @@
 
 Daily lead job pushes new research here.
 Favurr handles outreach delivery manually.
+
+## Stats
+
+```chart
+type: pie
+title: Outreach Kits by City
+labels: [Detroit, Pittsburgh, Cleveland, Lagos]
+series:
+  - title: Kits
+    data: [1, 7, 5, 1]
+```
+
+```chart
+type: donut
+title: Outreach Progress
+labels: [Prepared, Pending]
+series:
+  - title: Status
+    data: [14, 4]
+```
