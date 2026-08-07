@@ -35,7 +35,7 @@ series:
 ```
 
 ```chart
-type: donut
+type: pie
 title: Outreach Progress
 labels: [Prepared, Pending]
 series:
