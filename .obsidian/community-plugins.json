@@ -1,13 +1,3 @@
 [
-  "obsidian-git",
-<<<<<<< HEAD
-  "obsidian-minimal-settings",
-  "calendar",
-  "obsidian-charts",
-  "obsidian-mind-map",
-  "obsidian-linter",
-  "obsidian-style-settings"
-=======
-  "advanced-charts"
->>>>>>> origin/main
+  "obsidian-git"
 ]
