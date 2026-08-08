@@ -6,17 +6,6 @@
 - Sources checked: Instagram, Facebook, Yelp, StreetFoodFinder, Web Search
 - Leads: 18
 
-## Leads by City
-
-```chart
-type: bar
-title: Leads by City
-labels: [Detroit, Pittsburgh, Cleveland]
-series:
-  - title: Lead Count
-    data: [7, 7, 6]
-```
-
 ## Detroit, MI Leads
 
 | Business | Owner/Contact | Email | Phone | WhatsApp | Instagram | Facebook | Website Status | Why Good Lead |
