@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Leads/Daily/2026-08-07 - US Cities Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-08-07 - US Cities Day 1"
             }
           }
         ]
@@ -90,8 +90,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -107,7 +107,7 @@
       {
         "id": "ba240bb1fd53b21c",
         "type": "tabs",
-        "dimension": 56.127450980392155,
+        "dimension": 56.12745098039215,
         "children": [
           {
             "id": "9a00c678a30641bb",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Leads/Daily/2026-08-07 - US Cities Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Leads/Daily/2026-08-07 - US Cities Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Leads/Daily/2026-08-07 - US Cities Day 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,7 +202,7 @@
       {
         "id": "f109a687db4d8e0c",
         "type": "tabs",
-        "dimension": 43.872549019607845,
+        "dimension": 43.87254901960785,
         "children": [
           {
             "id": "5e0392ed8fc53392",
@@ -236,10 +236,10 @@
   },
   "active": "c81ab6de0043852a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "README.md",
     "MAP.md",
     "Leads/Daily/2026-08-07 - US Cities Day 1.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Routine/2026-08-03.md",
     "Sources/Favurr Long-Term Memory.md",
     "Routine/2026-08-07.md",
