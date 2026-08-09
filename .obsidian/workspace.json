@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leads/Outreach-Kits/Pittsburgh/Hibachi Lou Outreach Kit.md",
+                "file": "Leads/Outreach-Kits/Detroit/Detroit Outreach Kit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hibachi Lou Outreach Kit"
+              "title": "Detroit Outreach Kit"
             }
           }
         ]
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leads/Outreach-Kits/Pittsburgh/Hibachi Lou Outreach Kit.md",
+                "file": "Leads/Outreach-Kits/Detroit/Detroit Outreach Kit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leads/Outreach-Kits/Pittsburgh/Hibachi Lou Outreach Kit.md",
+                "file": "Leads/Outreach-Kits/Detroit/Detroit Outreach Kit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,6 +235,7 @@
   },
   "active": "a3b7fe3838966203",
   "lastOpenFiles": [
+    "Leads/Outreach-Kits/Pittsburgh/Hibachi Lou Outreach Kit.md",
     "Leads/Outreach-Kits/Detroit/Detroit Outreach Kit.md",
     "Projects/Flo-Brown/README.md",
     "@hoodbachigrill.md",
@@ -260,7 +261,6 @@
     "Leads/Outreach-Kits/Cleveland/Cheesy Dave's Outreach Kit.md",
     "Leads/Outreach-Kits/Pittsburgh/The Boonseek Outreach Kit.md",
     "Leads/Outreach-Kits/Pittsburgh/The Better Bean Outreach Kit.md",
-    "Leads/Outreach-Kits/Pittsburgh/Mr. Nick's Fried Chicken Sandwich Outreach Kit.md",
     "Leads/Outreach-Kits/Lagos",
     "Projects/HoodBachi",
     "Projects/Flo-Brown",
